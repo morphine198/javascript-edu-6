@@ -1,7 +1,7 @@
 {
   "name": "airbnb-style-br1",
   "version": "2.0.0",
-  "description": "A mostly reasonable approach to JavaScript.",
+  "description": "A mostly reasonable approach to JavaScript. WOW",
   "scripts": {
     "preinstall": "npm run install:config && npm run install:config:base",
     "postinstall": "rm -rf node_modules/markdownlint-cli/node_modules/markdownlint",
